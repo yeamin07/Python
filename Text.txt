@@ -1,0 +1,11 @@
+john.doe@example.com
+sarah.smith@emailprovider.net
+contact@companyname.com
+jennifer.brown@gmail.com
+support@website.org
+marketingteam@businessco.com
+yourname@personalmail.com
+info@nonprofit.org
+sales@productcompany.com
+hr.department@corporationinc.com
+yeaminr07@gmail.com
